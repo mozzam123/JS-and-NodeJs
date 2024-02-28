@@ -1,3 +1,10 @@
+// Definition
+
+"The EventEmitter is a class that facilitates communication/interaction between objects in Node.js."           
+"The EventEmitter class can be used to create and handle custom events."
+
+
+
 const EventEmmitter = require("node:events")
 
 const emitter = new EventEmmitter()
